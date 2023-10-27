@@ -52,8 +52,4 @@ public class ProcessAndVerifyEmailImplServices implements ProcessAndVerifyEmailS
         .reference(reference).build();
     }
 
-
-
-
-
 }
